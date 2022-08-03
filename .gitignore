@@ -2,3 +2,5 @@ credentials.yml
 .terraform/
 *.tfstate*
 __pycache__/
+
+ansible 
